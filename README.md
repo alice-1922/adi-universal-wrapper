@@ -1,2 +1,3 @@
 # adi-universal-wrapper
-Disposable pull request workflow evaluation
+
+Disposable workflow evaluation repository.
